@@ -3,16 +3,19 @@
 **Introduction** <br>
 This project demonstrates the creation of a machine learning pipeline to classify messages related to disasters into multiple categories. The pipeline includes data processing, model training, and web application development.
 <br>
+<br>
 **Files** <br>
 ETL Pipeline Preparation: Python script for Extract, Transform, Load (ETL) pipeline preparation.
-process_data.py
+process_data.py <br>
 ML Pipeline Preparation: Python script for Machine Learning (ML) pipeline preparation.
-train_classifier.py
-Flask Web App: Python script for Flask web application development.
-run.py
-Data Files:
-disaster_messages.csv: CSV file containing messages data.
-disaster_categories.csv: CSV file containing categories data.
+train_classifier.py <br>
+Flask Web App: Python script for Flask web application development. <br>
+run.py <br>
+Data Files: <br>
+disaster_messages.csv: CSV file containing messages data. <br>
+disaster_categories.csv: CSV file containing categories data. <br>
+<br>
+<br>
 **Instructions**
 ETL Pipeline Preparation:
 Run the process_data.py script to preprocess the messages and categories data, and store the cleaned data in an SQLite database.
