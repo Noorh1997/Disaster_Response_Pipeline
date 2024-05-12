@@ -15,7 +15,7 @@ Files <br>  <br>
 <br>
 <br>
 <br>
-**Instructions** <br> <br>
+Instructions <br> <br>
 - ETL Pipeline Preparation: <br>
     - Run the process_data.py script to preprocess the messages and categories data, and store the cleaned data in an SQLite database. <br>
 - ML Pipeline Preparation: <br>
@@ -28,12 +28,12 @@ Files <br>  <br>
 <br>
 <br>
 <br>
-**Dependencies** <br> <br>
+Dependencies <br> <br>
 - Python 3.x <br>
 - Libraries: pandas, sqlalchemy, scikit-learn, nltk, flask, plotly <br>
 <br>
 <br>
 <br>
-**Credits** <br> <br>
+Credits <br> <br>
 - This project is part of the Udacity Data Scientist Nanodegree Program.
 ![image](https://github.com/Noorh1997/Disaster_Response_Pipeline/assets/162990234/09f572a5-eabc-4f44-9e4c-6aaeb99f911b)
