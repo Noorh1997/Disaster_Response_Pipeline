@@ -6,10 +6,10 @@ This project demonstrates the creation of a machine learning pipeline to classif
 <br>
 <br>
 **Files** <br>
-ETL Pipeline Preparation: Python script for Extract, Transform, Load (ETL) pipeline preparation : process_data.py <br>
-ML Pipeline Preparation: Python script for Machine Learning (ML) pipeline preparation : train_classifier.py <br>
-Flask Web App: Python script for Flask web application developmen : run.py <br>
-Data Files: <br>
+- ETL Pipeline Preparation: Python script for Extract, Transform, Load (ETL) pipeline preparation : process_data.py <br>
+- ML Pipeline Preparation: Python script for Machine Learning (ML) pipeline preparation : train_classifier.py <br>
+- Flask Web App: Python script for Flask web application developmen : run.py <br>
+- Data Files: <br>
 disaster_messages.csv: CSV file containing messages data. <br>
 disaster_categories.csv: CSV file containing categories data. <br>
 <br>
