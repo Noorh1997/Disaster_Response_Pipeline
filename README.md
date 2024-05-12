@@ -1,9 +1,9 @@
 # Disaster_Response_Pipeline
 
-**Introduction**
+**Introduction** <br>
 This project demonstrates the creation of a machine learning pipeline to classify messages related to disasters into multiple categories. The pipeline includes data processing, model training, and web application development.
-
-**Files**
+<br>
+**Files** <br>
 ETL Pipeline Preparation: Python script for Extract, Transform, Load (ETL) pipeline preparation.
 process_data.py
 ML Pipeline Preparation: Python script for Machine Learning (ML) pipeline preparation.
