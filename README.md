@@ -25,6 +25,13 @@ Instructions <br> <br>
     - Run the run.py script to start the Flask web application. <br>
     - Access the web application in your browser. <br>
     - Enter a message in the provided text box, and the model will classify it into relevant categories. <br>
+
+To run the project, follow these steps:
+
+1. Open a terminal or command prompt.
+2. Navigate to the project directory.
+3. Run the run.py script.
+
 <br>
 <br>
 <br>
