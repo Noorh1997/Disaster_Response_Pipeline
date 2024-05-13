@@ -10,8 +10,8 @@ Files <br>  <br>
 2. ML Pipeline Preparation: Python script for Machine Learning (ML) pipeline preparation : train_classifier.py <br>
 3. Flask Web App: Python script for Flask web application developmen : run.py <br>
 4. Data Files: <br>
-     1.  disaster_messages.csv: CSV file containing messages data. <br>
-     2.  disaster_categories.csv: CSV file containing categories data. <br>
+     -  disaster_messages.csv: CSV file containing messages data. <br>
+     -  disaster_categories.csv: CSV file containing categories data. <br>
 <br>
 <br>
 <br>
