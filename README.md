@@ -6,26 +6,26 @@
 <br>
 <br>
 Files <br>  <br>
-- ETL Pipeline Preparation: Python script for Extract, Transform, Load (ETL) pipeline preparation : process_data.py <br>
-- ML Pipeline Preparation: Python script for Machine Learning (ML) pipeline preparation : train_classifier.py <br>
-- Flask Web App: Python script for Flask web application developmen : run.py <br>
-- Data Files: <br>
-     -  disaster_messages.csv: CSV file containing messages data. <br>
-     -  disaster_categories.csv: CSV file containing categories data. <br>
+1. ETL Pipeline Preparation: Python script for Extract, Transform, Load (ETL) pipeline preparation : process_data.py <br>
+2. ML Pipeline Preparation: Python script for Machine Learning (ML) pipeline preparation : train_classifier.py <br>
+3. Flask Web App: Python script for Flask web application developmen : run.py <br>
+4. Data Files: <br>
+     1.  disaster_messages.csv: CSV file containing messages data. <br>
+     2.  disaster_categories.csv: CSV file containing categories data. <br>
 <br>
 <br>
 <br>
 Instructions <br> <br>
-- ETL Pipeline Preparation: <br>
+1. ETL Pipeline Preparation: <br>
     - Run the process_data.py script to preprocess the messages and categories data, and store the cleaned data in an SQLite database. <br>
-- ML Pipeline Preparation: <br>
+2. ML Pipeline Preparation: <br>
     - Run the train_classifier.py script to build and train a machine learning model using the cleaned data. <br>
     - The trained model will be saved as a pickle file. <br>
-- Flask Web App: <br>
+3. Flask Web App: <br>
     - Run the run.py script to start the Flask web application. <br>
     - Access the web application in your browser. <br>
     - Enter a message in the provided text box, and the model will classify it into relevant categories. <br>
-
+ <br>
 To run the project, follow these steps:
 
 1. Open a terminal or command prompt.
